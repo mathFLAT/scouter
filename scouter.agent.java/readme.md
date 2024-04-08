@@ -33,3 +33,8 @@ Response Time, TPS, Page View, Error rate etc
 ### Users
 Recent 5min users, Daily Visit users etc
 
+## mathflat build
+- 환경 변수 설정 필요 : JAVA_21_HOME
+- scouter.agent.java 프로젝트 maven build
+  - Lifecyle > package 실행
+  - target > scouter.agent.jar 파일 생성
